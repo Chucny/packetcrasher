@@ -1,7 +1,7 @@
 import subprocess
 import threading
 
-target_ip = input()
+target_ip = input("Enter target IP")
 packet_size = "65500"
 thread_count = 10000 
 
